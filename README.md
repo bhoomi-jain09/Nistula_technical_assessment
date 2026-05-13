@@ -56,7 +56,7 @@ venv\Scripts\activate
 ## 3. Install Dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 ## 4. Environment Configuration
 Create a `.env` file using `.env.example`:
